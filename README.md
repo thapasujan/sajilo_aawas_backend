@@ -244,7 +244,7 @@ See `LICENSE` for more details.
 👤 **Sujan Thapa**
 
 * GitHub: [https://github.com/thapasujan](https://github.com/thapasujan)
-* Email: [sujan.thapa@gmail.com](mailto:sujan.thapa@gmail.com) (replace with your real email)
+* Email: thapasujan1025@gmail.com
 
 ---
 
